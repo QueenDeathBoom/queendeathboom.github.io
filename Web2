@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+            body{
+                background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(26,128,24,1) 39%, rgba(247,255,48,1) 100%);
+            
+            }
+            
+            h2{
+                color: rgb(255, 255, 255);
+            }
+            
+              h3{
+                color: rgb(40, 77, 133);
+            }
+        </style>
+    </head>
+    <body>
+       
+        <h1>E.T.'s Recipe Book</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/ETChrist.jpg">
+        <h2>How to cook a great travel</h2>
+        
+        <h2>CONTENTS:</h2>
+        
+        <ol>
+            <li><a href="#BackPack">BackPack</a></li>
+            <li><a href="#vocabulary">Vocabulary</a></li>
+            <li><a href="#culture">Culture</a></li>
+            <li><a href="#transport">Transport</a></li>
+            <li><a href="#extras">Extras</a></li>
+            <li><a href="#more">More</a></li>
+        </ol>
+        
+        
+<!--BackPack-->
+        <h2 id="BackPack">BackPack</h2>
+        
+        <ul>
+            <li>Time: 5´ to 10´</li>
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Small Light</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Phone</td>
+                    <td>1 <a href="#*1">*1</a></td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Take the             light and paste it to your finger, it            will be easier to carry.</p>
+        <p><strong>Step 2:</strong> Put your             phone in a save place, like your trousers         , but be sure to carry them.</p>
+        
+        
+ <!--VOCABULARY-->
+        <h2 id="vocabulary">Vocabulary</h2>
+        
+        <ul>
+            <li>Time: One hour per day<a href="#*2">*2</a></li>
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Patience</td>
+                    <td>A lot</td>
+                </tr>
+                <tr>
+                    <td>Aims</td>
+                    <td> 3/4 of the same </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> GO to your desk, open your computer and download all the free books you can find about the language.</p>
+        <p><strong>Step 2:</strong> Cry and memorize, in that order.</p>
+        
+    <p><em>Source: <a href="http://www.learnspanishtoday.com/learning_module/grammar.htm">Some recipes websites</a></em></p>
+    
+    
+<!--CULTURE-->
+        <h2 id="culture">Culture</h2>
+        
+        <ul>
+            <li>Time: By the way </li>
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>OpenMind</td>
+                    <td>Millions </td>
+                </tr>
+                <tr>
+                    <td>A phone</td>
+                    <td> One full of films </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> In fact, his step is the easiest, the people of Earth <strong>LOVE</strong> to help aliens to show us to our culture.<a href="#*3">*3</a></p>
+        
+        
+<!--TRANSPORT-->
+        <h2 id="transport">Transport</h2>
+        
+        <ul>
+            <li>Time: 2-3 eons </li>
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>A good OVNI</td>
+                    <td>. One <a href="#*1">*1</a></td>
+                </tr>
+                <tr>
+                    <td>A bike</td>
+                    <td>. One <a href ="#*4">*4</a></td>
+                </tr>
+            </tbody>
+        </table>
+        
+ <!--LOCAL CELEBRATIONS-->    
+         <h2 id="local">LOCAL CELEBRATIONS</h2>
+         <p>In earth, they are vey keen on parties, in every country they have their own local days, like <a href="https://www.khanacademy.org/hour-of-code/spin-off-of-project-holiday-card/6150252313198592">Japan</a>, or <a href"https://www.khanacademy.org/computer-programming/project-travel-webpage/5414010851180544">Spain</a> </p>
+        
+    
+<!--Extras-->
+    <h3 id="extras">EXTRAS</h3>
+    
+    <p id= "*1"> *1 Some books may recomend take two, but with only one in enought, <strong>you are not gonna lost/break it</strong> anyway</p>
+    
+    <p id= "*2">*2 This depends in your amount of knowledge and in your plans, I recomend you to start with <em>"my house"</em> and <em>"phone"</em>.</p>
+    
+    <p id = "*3"> *3 The most  famous agencias to teach you tu culture are <em><strong>F</strong>abric of <strong>B</strong>enefactors <strong>I</strong>ntergalictic </em> an <em><strong>C</strong>enter <strong>I</strong>ntergalactic of <strong>A</strong>ltruism</em>.
+    
+    <p id="*4">*4 I recomend you to buy it on the Earth, they make a flying ones that are great, and I think that ther are ecologic too.</p>
+    <img src ="https://upload.wikimedia.org/wikipedia/en/e/eb/ET_Moon.jpg" >
+    <h6>A selfi that I made in my last trip</h6>
+    
+    
+<!--More-->
+    <h3 id="more">MORE</h3>
+    <p> Here I add other books that may help to do your travel sweeter.</p>
+    
+    <li> <a href="https://www.casadellibro.com/ebook-guia-del-autoestopista-galactico-ebook/9788433927996/4776929">Guide of the intergalactic traveller</a></li>
+    <li><a href="https://www.youtube.com/watch?v=d9TSDM7YUpA">BackPack hacks</a></li>
+    
+    </body>
+</html>
